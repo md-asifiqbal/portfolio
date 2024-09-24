@@ -2,7 +2,7 @@
   "private": true,
   "name": "md-asifiqbal-portfolio",
   "version": "1.0.0",
-  "homepage": "https://md-asifiqbal.github.io/portfolio/",
+  "homepage": "https://md-asifiqbal.github.io/portfolio",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
